@@ -1,0 +1,63 @@
+Bài 11: Tính giai thừa bằng đệ quy
+Đề:
+Viết chương trình nhập vào một số nguyên dương n.
+Xây dựng hàm đệ quy để tính giai thừa của n (ký hiệu: n!).
+Trường hợp n = 0 hoặc n = 1 thì kết quả là 1.
+In ra kết quả trên màn hình.
+
+Ví dụ:
+Nhập n: 5
+Kết quả: 120
+
+Bài 12: Đếm số lần xuất hiện ký tự trong chuỗi
+Đề:
+Viết chương trình thực hiện:
+Nhập vào một chuỗi ký tự bất kỳ từ bàn phím.
+Nhập tiếp một ký tự cần tìm.
+Đếm và in ra số lần ký tự đó xuất hiện trong chuỗi.
+
+Ví dụ:
+
+Nhập chuỗi: lap trinh python
+Nhập ký tự cần đếm: n
+Kết quả: 2
+
+Bài 13: Kiểm tra số đối xứng (Palindrome)
+Đề:
+Viết chương trình nhập vào một số nguyên dương n.
+Chuyển số đó sang chuỗi.
+Kiểm tra xem số này có phải là số đối xứng (đọc xuôi và đọc ngược giống nhau) hay không.
+In kết quả ra màn hình.
+
+Ví dụ:
+
+Nhập n: 12321
+Kết quả: 12321 là số đối xứng
+
+Nhập n: 1234
+Kết quả: 1234 không phải số đối xứng
+
+Bài 14: Tính trung bình cộng danh sách số
+Đề:
+Viết chương trình thực hiện:
+Nhập vào một dãy số nguyên (các số cách nhau bởi khoảng trắng).
+Lưu vào danh sách (list).
+Tính và in ra trung bình cộng của các số trong danh sách.
+Nếu danh sách rỗng thì in thông báo "Danh sách rỗng".
+
+Ví dụ:
+
+Nhập dãy số: 2 4 6 8
+Kết quả: 5.0
+
+Bài 15: Viết và đọc file văn bản
+Đề:
+Viết chương trình thực hiện:
+Ghi một số dòng chữ bất kỳ vào file văn bản tên là output15.txt.
+Sau đó mở lại file này, đọc toàn bộ nội dung và in ra màn hình.
+
+Ví dụ:
+
+Nội dung trong file:
+Xin chào Python!
+Đây là bài luyện tập số 15.
